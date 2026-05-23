@@ -2,7 +2,8 @@
 
 A full-stack **MERN issue tracking system** for teams to create, assign, and resolve support tickets with role-based access control, real-time-style workflows, and an admin analytics dashboard.
 
-![TrackFlow](https://via.placeholder.com/1200x400/18181b/ffffff?text=TrackFlow+Issue+Tracking)
+![TrackFlow]<img width="2879" height="1524" alt="home" src="https://github.com/user-attachments/assets/e06d5956-4449-4ddf-a65b-5aa155defde2" />
+
 
 ---
 
